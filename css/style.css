@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap{
+	width:100%;
+	margin:0 auto;
+	background:#000;
+}
+.header-left{
+	width:30.9%;
+	height:135px;
+	background:url(../img/headerl.png);
+}
+.header-middle{
+	width:43%;
+	height:133px;
+	color:#c8b59a;
+	background:url(../img/headerm.png);
+}
+.animated{
+	width:468px;
+	height:133px;
+	background:url(../img/fontbg.png) no-repeat 0 50%;
+}
+.header-right{
+	width:26.1%;
+	height:131px;
+	background:url(../img/headerr.png);
+}
+.content{
+	width:76%;
+	margin:0 auto;
+	height:1050px;
+	background:url(../img/contentbg.png) no-repeat;
+}
+.content-banner{
+	width:93%;
+	height:395px;
+	margin:0 auto;
+	background:url(../img/contentbg1.png) no-repeat;
+}
+.banner-list{
+	width:72%;
+	height:371px;
+	margin:-7px auto;
+}
